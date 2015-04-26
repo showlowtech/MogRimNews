@@ -1,0 +1,2 @@
+# MogRimNews
+MogRimNews App
